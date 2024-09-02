@@ -1,0 +1,31 @@
+
+.unition-action {
+  padding: 20px;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.unition-action .unition-header {
+  font-size: 32px;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.unition-action .unition-paragraph {
+  font-size: 16px;
+  color: #555;
+  line-height: 1.6;
+  margin-bottom: 16px;
+}
+
+/* Unset common styles that might be applied globally */
+.unition-action h2,
+.unition-action p {
+  margin: 0;
+  padding: 0;
+  color: inherit;
+  font-size: inherit;
+  line-height: inherit;
+  font-family: inherit;
+}
